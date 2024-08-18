@@ -156,6 +156,11 @@ export default [
         icon: 'smile',
         path: '/list/card-list',
         component: './list/card-list',
+      }, {
+        name: 'log-list',
+        icon: 'smile',
+        path: '/list/log-list',
+        component: './list/log-list',
       },
     ],
   },
